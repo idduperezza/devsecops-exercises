@@ -44,7 +44,7 @@ jobs:
 
 
 ## Exercise Docker SBOM generation
-  sbom-docker:
+  sbom:
     name: Generate docker SBOM
     runs-on: ubuntu-latest
     strategy:
